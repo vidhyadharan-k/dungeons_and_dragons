@@ -75,8 +75,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🌟 Connect
 
-If this project excites you, let’s connect on **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+If this project excites you, let’s connect on **LinkedIn**: https://www.linkedin.com/in/vidhyadharan-k/
 
 ---
 
-👉 *Let me know if you'd like help adding badges (e.g., Python version, license), diagram images, or a project logo for this README!*
