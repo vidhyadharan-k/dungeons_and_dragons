@@ -43,8 +43,7 @@ An interactive, turn-based text adventure game where a **Large Language Model (L
 1️⃣ **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/vidhyadharan-k/dungeons_and_dragons.git 
 ```
 
 2️⃣ **Install dependencies**
