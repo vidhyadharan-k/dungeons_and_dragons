@@ -1,0 +1,12 @@
+[project]
+name = "dungeons-and-dragons"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-google-genai>=2.1.4",
+    "langchain-ollama>=0.3.3",
+    "langchain-openai>=0.3.18",
+    "streamlit>=1.45.1",
+]
